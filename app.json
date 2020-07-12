@@ -1,6 +1,6 @@
 {
-  "name": "Telegram Torrent Leecher",
-  "description": "A Telegram Torrent (and youtube-dl) Leecher based on Pyrogram. Powered by @torrentleechgdrivesupport!",
+  "name": "Shadow Torrent Leecher",
+  "description": "A Telegram Torrent (and youtube-dl) Leecher based on Pyrogram. Powered by @Shadow_ninja_legit!",
   "keywords": [
     "telegram",
     "best",
@@ -15,8 +15,8 @@
     "leecher"
   ],
   "repository": "https://https://github.com/shadowninja024/TorrentLeech-Gdrive",
-  "success_url": "https://t.me/torrentleechgdrivesupport",
-  "website": "https://github.com/gautamajay52/TorrentLeech-Gdrive",
+  "success_url": "https://t.me/Shadow_ninja_legit",
+  "website": "https://github.com/shadowninja024/drive-hording",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
